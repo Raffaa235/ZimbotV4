@@ -37,18 +37,18 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','447441437150']
-global.premium = ['27634090203','447441437150']
+global.owner = ['6282230196826']
+global.premium = ['6282230196826']
 global.botname = 'ZIM BOT INC'
 global.packname = 'ZIM BOT INC'
-global.monayawal = '100000'
-global.darahawal = '100'
-global.besiAwal = '15'
-global.goldAwal = '10'
-global.emeraldAwal = '5'
-global.umpanAwal = '5'
-global.potionAwal = '1'
-global.limittot = 100,
+global.monayawal = '1000000000000000'
+global.darahawal = '1000000000'
+global.besiAwal = '150000000'
+global.goldAwal = '1000000000'
+global.emeraldAwal = '50000000'
+global.umpanAwal = '500000000'
+global.potionAwal = '100000000000'
+global.limittot = 1000000000000,
 global.f1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.f2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
 global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
@@ -74,7 +74,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 100000000000000
 }
    global.rpg = {
    darahawal: 100,
